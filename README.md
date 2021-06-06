@@ -19,7 +19,7 @@ Extract table content from PDF file such as quotation.
 
 -----
 
-Because tabula-py is written in Java language, a Java SDK is required with version 8 or newer. The Java SDK can be download at [Java 8](https://www.java.com/zh-TW/download/).
+Because tabula-py is written in Java language, a Java SDK is required with version 8 or later. The Java SDK can be download at [Java 8](https://www.java.com/zh-TW/download/).
 
 ## Install tabula-py
 
